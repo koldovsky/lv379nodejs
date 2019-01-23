@@ -49,6 +49,13 @@
         "price": 99999.99
     },
     {
+        "id": "10",
+        "title": "Chevrolet Corvette",
+        "image": "chevrolet-corvette.jpg",
+        "description": "Best muscle car in the World",
+        "price": 30000.00
+    },
+    {
         "id": "8",
         "title": "Dodge RAM",
         "image": "dodge_ram.jpg",
@@ -62,7 +69,6 @@
         "description": "The best beast by Ford",
         "price": 150000.00
     },
-
     {
         "id": "10",
         "title": "Chevrolet Corvette",
@@ -81,7 +87,8 @@
         "id": "12",
         "title": "Toyota Corolla",
         "image": "toyota-corolla.jpg",
-        "description": "Standard Toyota Safety Sense"
+        "description": "Standard Toyota Safety Sense",
+        "price": 200000.00
     },
     {
         "id": "13",
@@ -91,10 +98,12 @@
         "price": 250000.00
     },
     {
-        "id": "13",
-        "title": "Honda accord",
-        "image": "honda-accord.jpg",
-        "description": "The best jappanes car"
-        "price": 200000.00
+        "id": "14",
+        "title": "Toyota Prius",
+        "image": "ToyotaPrius.jpg",
+        "description": "The best beast by Toyota",
+        "price": 20000.00
     }
+
 ]
+
