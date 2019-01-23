@@ -68,6 +68,8 @@
         "image": "chevrolet-corvette.jpg",
         "description": "Best muscle car in the World",
         "price": 30000.00
+<<<<<<< HEAD
+=======
     },
     {
         "id": "11",
@@ -75,6 +77,7 @@
         "image": "seat-leon.jpg",
         "description": "Best suited for family trips",
         "price": 200000.00
+>>>>>>> d1ce126a3b70687442b3ffb9dfc509bd8a2266e4
     }
 
 ]
