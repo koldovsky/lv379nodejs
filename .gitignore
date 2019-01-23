@@ -12,6 +12,13 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/lv379nodejs.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+
+
 # Generated files
 .idea/**/contentModel.xml
 
