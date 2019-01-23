@@ -81,7 +81,15 @@
         "id": "12",
         "title": "Toyota Corolla",
         "image": "toyota-corolla.jpg",
-        "description": "Standard Toyota Safety Sense"
+        "description": "Standard Toyota Safety Sense",
+        "price": 200000.00
+    },
+    {
+        "id": "13",
+        "title": "Chevrolet Orlando",
+        "image": "chevrolet-orlando.jpg",
+        "description": "Chevrolet for city driving",
+        "price": 250000.00
     }
 
 ]
