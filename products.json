@@ -62,11 +62,26 @@
         "description": "The best beast by Ford",
         "price": 150000.00
     },
+
+    {
+        "id": "10",
+        "title": "Chevrolet Corvette",
+        "image": "chevrolet-corvette.jpg",
+        "description": "Best muscle car in the World",
+        "price": 30000.00
+    },
     {
         "id": "11",
         "title": "Seat Leon",
-        "image": "seat-leon.jpg",
+        "image": "seat-leon.png",
         "description": "Best suited for family trips",
         "price": 200000.00
+    },
+    {
+        "id": "12",
+        "title": "Toyota Corolla",
+        "image": "toyota-corolla.jpg",
+        "description": "Standard Toyota Safety Sense"
     }
+
 ]
