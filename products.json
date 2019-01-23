@@ -62,6 +62,7 @@
         "description": "The best beast by Ford",
         "price": 150000.00
     },
+
     {
         "id": "10",
         "title": "Chevrolet Corvette",
@@ -75,6 +76,12 @@
         "image": "seat-leon.jpg",
         "description": "Best suited for family trips",
         "price": 200000.00
+    },
+    {
+        "id": "12",
+        "title": "Toyota Corolla",
+        "image": "toyota-corolla.jpg",
+        "description": "Standard Toyota Safety Sense"
     }
 
 ]
