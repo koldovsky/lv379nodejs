@@ -49,6 +49,13 @@
         "price": 99999.99
     },
     {
+        "id": "10",
+        "title": "Chevrolet Corvette",
+        "image": "chevrolet-corvette.jpg",
+        "description": "Best muscle car in the World",
+        "price": 30000.00
+    },
+    {
         "id": "8",
         "title": "Dodge RAM",
         "image": "dodge_ram.jpg",
@@ -69,4 +76,5 @@
         "description": "The best beast by Toyota",
         "price": 20000.00
     }
+
 ]
