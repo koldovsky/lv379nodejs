@@ -82,6 +82,18 @@
         "title": "Toyota Corolla",
         "image": "toyota-corolla.jpg",
         "description": "Standard Toyota Safety Sense"
+    },
+    {
+        "id": "12",
+        "title": "Toyota Corolla",
+        "image": "toyota-corolla.jpg",
+        "description": "Standard Toyota Safety Sense"
+    },
+    {
+        "id": "13",
+        "title": "Honda accord",
+        "image": "honda-accord.jpg",
+        "description": "The best jappanes car"
     }
 
 ]
