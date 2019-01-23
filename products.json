@@ -49,6 +49,7 @@
         "price": 99999.99
     },
     {
+<<<<<<< HEAD
         "id": "10",
         "title": "Chevrolet Corvette",
         "image": "chevrolet-corvette.jpg",
@@ -56,6 +57,8 @@
         "price": 30000.00
     },
     {
+=======
+>>>>>>> 60a4476ab71057c719be5493362175e3d0066abc
         "id": "8",
         "title": "Dodge RAM",
         "image": "dodge_ram.jpg",
@@ -70,7 +73,35 @@
         "price": 150000.00
     },
     {
+        "id": "10",
+        "title": "Chevrolet Corvette",
+        "image": "chevrolet-corvette.jpg",
+        "description": "Best muscle car in the World",
+        "price": 30000.00
+    },
+    {
+        "id": "11",
+        "title": "Seat Leon",
+        "image": "seat-leon.png",
+        "description": "Best suited for family trips",
+        "price": 200000.00
+    },
+    {
+        "id": "12",
+        "title": "Toyota Corolla",
+        "image": "toyota-corolla.jpg",
+        "description": "Standard Toyota Safety Sense",
+        "price": 200000.00
+    },
+    {
         "id": "13",
+        "title": "Chevrolet Orlando",
+        "image": "chevrolet-orlando.jpg",
+        "description": "Chevrolet for city driving",
+        "price": 250000.00
+    },
+    {
+        "id": "14",
         "title": "Toyota Prius",
         "image": "ToyotaPrius.jpg",
         "description": "The best beast by Toyota",
