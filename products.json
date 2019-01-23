@@ -49,6 +49,13 @@
         "price": 99999.99
     },
     {
+        "id": "8",
+        "title": "Dodge RAM",
+        "image": "dodge_ram.jpg",
+        "description": "New Dodge RAM for best price",
+        "price": 100000
+    },
+    {
         "id": "9",
         "title": "Ford Mustang",
         "image": "ford-mustang.jpg",
