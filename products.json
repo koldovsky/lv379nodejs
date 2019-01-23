@@ -103,7 +103,13 @@
         "image": "ToyotaPrius.jpg",
         "description": "The best beast by Toyota",
         "price": 20000.00
+    },
+    {
+        "id": "15",
+        "title": "iPhone X",
+        "image": "iphone-x.jpg",
+        "description": "The best phone",
+        "price": 1000.00
     }
-
 ]
 
