@@ -61,5 +61,12 @@
         "image": "ford-mustang.jpg",
         "description": "The best beast by Ford",
         "price": 150000.00
+    },
+    {
+        "id": "12",
+        "title": "Toyota Corolla",
+        "image": "toyota-corolla.jpg",
+        "description": "Standard Toyota Safety Sense",
+        "price": 200000.00
     }
 ]
