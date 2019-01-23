@@ -61,5 +61,12 @@
         "image": "ford-mustang.jpg",
         "description": "The best beast by Ford",
         "price": 150000.00
+    },
+    {
+        "id": "10",
+        "title": "Toyota Prius",
+        "image": "ToyotaPrius.jpg",
+        "description": "The best beast by Toyota",
+        "price": 20000.00
     }
 ]
