@@ -61,7 +61,17 @@
         "image": "dodge_ram.jpg",
         "description": "New Dodge RAM for best price",
         "price": 100000
+<<<<<<< HEAD
 >>>>>>> dd433e23546b6aae51ff3aca1693113bf4a65ea0
+=======
+    },
+    {
+        "id": "9",
+        "title": "Ford Mustang",
+        "image": "ford-mustang.jpg",
+        "description": "The best beast by Ford",
+        "price": 150000.00
+>>>>>>> dd169307190b32d1d7917cafd8635febd4e2c3ef
     }
 
 ]
