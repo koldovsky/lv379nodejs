@@ -81,8 +81,7 @@
         "id": "12",
         "title": "Toyota Corolla",
         "image": "toyota-corolla.jpg",
-        "description": "Standard Toyota Safety Sense",
-        "price": 200000.00
+        "description": "Standard Toyota Safety Sense"
     },
     {
         "id": "13",
@@ -90,6 +89,12 @@
         "image": "chevrolet-orlando.jpg",
         "description": "Chevrolet for city driving",
         "price": 250000.00
+    },
+    {
+        "id": "13",
+        "title": "Honda accord",
+        "image": "honda-accord.jpg",
+        "description": "The best jappanes car"
+        "price": 200000.00
     }
-
 ]
