@@ -61,5 +61,12 @@
         "image": "ford-mustang.jpg",
         "description": "The best beast by Ford",
         "price": 150000.00
+    },
+    {
+        "id": "11",
+        "title": "Seat Leon",
+        "image": "seat-leon.jpg",
+        "description": "Best suited for family trips",
+        "price": 200000.00
     }
 ]
